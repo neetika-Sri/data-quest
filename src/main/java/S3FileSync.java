@@ -1,6 +1,5 @@
 public class S3FileSync {
     public static void main(String[] args){
-        // TODO:
 /*
         String url = "https://download.bls.gov/pub/time.series/pr/";
         String destFolder = "./resources";
